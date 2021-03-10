@@ -19,3 +19,7 @@ For anyone interested in learning more about the Crosstalk aspects of the table,
 <img src = "http://g.recordit.co/9nNMwUNuhW.gif" width = "800">
 </p>
 
+## ** Original TidyTuesday post from Week 41/2020 (using `gt` package) **
+
+![](https://github.com/schmid07/TidyTuesday/blob/main/plots/2020_41.png)
+
