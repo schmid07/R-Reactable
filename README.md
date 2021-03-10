@@ -21,7 +21,7 @@ For anyone interested in learning more about the `crosstalk` aspects of the tabl
 * Long Nguyen [(Table and Code)](https://rpubs.com/long39ng/702061)
 
 <p align = "center">
-<img src = "http://g.recordit.co/9nNMwUNuhW.gif" width = "700">
+<img src = "http://g.recordit.co/aZGcdFsNET.gif" width = "700">
 </p>
 
 
