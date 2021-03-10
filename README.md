@@ -1,9 +1,9 @@
 # Which women's programs have been most successful during the NCAA Tournament era?
 
 ### **March 10, 2021**  
-[Code](https://github.com/schmid07/R-Reactable/blob/main/2020_41_bball_react.rmd) | [Interactive Version](https://schmid07.github.io/R-Reactable/2020_41_bball_react.html)
+[**Interactive Version**](https://schmid07.github.io/R-Reactable/2020_41_bball_react.html)
 
-The first table below was adapted from my Week 41/2020 TidyTuesday post (2nd table) that I also submitted as part of the [R Studio Table Contest](https://blog.rstudio.com/2020/12/23/winners-of-the-2020-rstudio-table-contest/). I had been wanting to explore Greg Lin's `reactable` package and figured using my original post, which used the `gt` package, would be a good starting point.
+The first table below was adapted from my Week 41/2020 TidyTuesday post that I also submitted as part of the [R Studio Table Contest](https://blog.rstudio.com/2020/12/23/winners-of-the-2020-rstudio-table-contest/). I had been wanting to explore Greg Lin's `reactable` package and figured using my original post, which used the `gt` package, would be a good starting point.
 
 For anyone just getting started with the `reactable` package, I'd recommend checking out the numerous examples and demos Greg Lin put together [here](https://glin.github.io/reactable/index.html) and also Kyle Ciulla's `reactablefmtr` [package](https://kcuilla.github.io/reactablefmtr/articles/color_scales.html#using-span-1), which helps to simplify implementing various components of `reactable`. Unfortunately, I was about mid-way through putting this table together before coming across `reactablefmtr` (otherwise I would have used it more, especially for adding in the images), but I did use it for the conditional formatting. The `reactablefmtr` package has a ton of other useful features that I'd like to explore in the future.
 
