@@ -9,10 +9,11 @@ For anyone just getting started with the `reactable` package, I'd recommend chec
 
 Some other resources that I found particularly helpful in getting started with `reactable` were Thomas Mock's blog posts [here](https://themockup.blog/posts/2020-05-13-reactable-tables-the-rest-of-the-owl/) and [here](https://themockup.blog/posts/2020-05-29-client-side-interactivity-do-more-with-crosstalk/) and the following TidyTuesday and R Studio Table Contests posts from: 
 
-* [Amit Levinson](https://amitlevinson.github.io/TidyTuesday/2021/week3_tate/tate_art.html) [(code here)](https://github.com/AmitLevinson/TidyTuesday/blob/master/2021/week3_tate/tate_art.Rmd) 
+* Amit Levinson [(Table)](https://amitlevinson.github.io/TidyTuesday/2021/week3_tate/tate_art.html) [(Code)](https://github.com/AmitLevinson/TidyTuesday/blob/master/2021/week3_tate/tate_art.Rmd) 
 
-* Georgios Karamanis  
+* Georgios Karamanis [(Table)](https://github.com/gkaramanis/table-contest) [(Code)](https://github.com/gkaramanis/table-contest/blob/main/table-contest.Rmd)   
 
+For anyone interested in learning more about the Crosstalk aspects of the table, 
 
 <p align = "center">
 <img src = "http://g.recordit.co/9nNMwUNuhW.gif" width = "800">
