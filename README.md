@@ -8,13 +8,10 @@ The below table was adapted from my Week 41/2020 TidyTuesday [post](https://gith
 For anyone just getting started with the `reactable` package, I'd recommend checking out the numerous examples and demos Greg Lin put together [here](https://glin.github.io/reactable/index.html) and also Kyle Ciulla's `reactablefmtr` [package](https://kcuilla.github.io/reactablefmtr/articles/color_scales.html#using-span-1), which helps to simplify implementing various components of `reactable`. Unfortunately, I was about mid-way putting this table together before coming across `reactablefmtr` (otherwise I would have used it more, especially for adding in the images), but I was able to use it for the conditional formatting. 
 
 Some other resources that I found particularly helpful in getting started with `reactable` were Thomas Mock's blog posts [here](https://themockup.blog/posts/2020-05-13-reactable-tables-the-rest-of-the-owl/) and [here](https://themockup.blog/posts/2020-05-29-client-side-interactivity-do-more-with-crosstalk/) and the following TidyTuesday and R Studio Table Contests posts from: 
-[Amit Levinson](https://amitlevinson.github.io/TidyTuesday/2021/week3_tate/tate_art.html) [(code here)](https://github.com/AmitLevinson/TidyTuesday/blob/master/2021/week3_tate/tate_art.Rmd) 
-Georgios Karamanis  
 
-https://amitlevinson.github.io/TidyTuesday/2021/week3_tate/tate_art.html
+* [Amit Levinson](https://amitlevinson.github.io/TidyTuesday/2021/week3_tate/tate_art.html) [(code here)](https://github.com/AmitLevinson/TidyTuesday/blob/master/2021/week3_tate/tate_art.Rmd) 
 
-Some additional
-
+* Georgios Karamanis  
 
 
 <p align = "center">
