@@ -26,7 +26,7 @@ For anyone interested in learning more about the `crosstalk` aspects of the tabl
 
 * **Long Nguyen** [(Table and Code)](https://rpubs.com/long39ng/702061)
 
-Last, big thanks to **Amit Levinson** who helped me troubleshoot 
+Last, big thanks to **Amit Levinson** for helping me troubleshoot how to get an interactive post online. He has a helpful blog post on the topic [here](https://amitlevinson.com/blog/sharing-interactive-charts/).
 
 
 ### Original TidyTuesday post from Week 41/2020 (using `gt` package) 
