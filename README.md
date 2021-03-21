@@ -33,7 +33,5 @@ Last, big thanks to **Amit Levinson** for helping me troubleshoot how to get an 
 
 [Code](https://github.com/schmid07/TidyTuesday_Weekly_Data_Viz_Challenge/blob/main/Code/2020_41_bball.R)
 
-<p align = "center">
-<img src = "https://github.com/schmid07/TidyTuesday/blob/main/plots/2020_41.png" width = "700">
-</p>
+![plots/2020_41/2020_41.png](https://raw.githubusercontent.com/schmid07/TidyTuesday_Weekly_Data_Viz_Challenge/main/plots/2020_41/2020_41.png)
 
