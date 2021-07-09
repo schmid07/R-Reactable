@@ -28,7 +28,6 @@ For anyone interested in learning more about the `crosstalk` aspects of the tabl
 
 Last, big thanks to **Amit Levinson** for helping me troubleshoot how to get an interactive post online. He has a helpful blog post on the topic [here](https://amitlevinson.com/blog/sharing-interactive-charts/).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the Heat/Bucks game yesterday, the Heat had more 3-point attempts than 2-point attempts *and* shot better from 3-point range (20-50) than they did from 2-point range (16-49). How often does that happen in a given season?</p>&mdash; James Surowiecki (@JamesSurowiecki) <a href="https://twitter.com/JamesSurowiecki/status/1396422342214131712?ref_src=twsrc%5Etfw">May 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ### Original TidyTuesday post from Week 41/2020 (using `gt` package) 
 
 [Code](https://github.com/schmid07/TidyTuesday_Weekly_Data_Viz_Challenge/blob/main/Code/2020_41_bball.R)
